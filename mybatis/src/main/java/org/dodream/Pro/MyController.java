@@ -34,7 +34,9 @@ public class MyController {
 		Map<String, Boolean> map = new HashMap<String,Boolean>();
 		boolean ok = svc.join(vo);
 		map.put("save",ok);
+		int n = 0;
 		return map;
+	
 	}
 	
 }
