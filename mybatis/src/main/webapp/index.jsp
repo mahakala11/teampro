@@ -3,6 +3,6 @@
 <body>
 <h2>Hello World!</h2>
 
-<a href="input">저장</a>
+<a href="input">저장했다</a>
 </body>
 </html>
